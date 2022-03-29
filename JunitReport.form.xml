@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="26.244719">
+<testcase classname="Fill the application form" name="User should give valid details" time="26.244719">
+<system-out><![CDATA[Given User navigates to Application page....................................passed
+When User enters  firstname and lastname in the firstname input.............passed
+And User click gender button................................................passed
+And User enters  emailaddress in the email input............................passed
+And User enters  mobilNo in the MobilNo input...............................passed
+And User enters  Dateofbirth in the Dateofbirth input.......................passed
+And User click hobbies button...............................................passed
+And User enters current address in the address input........................passed
+And User select state in dropdown...........................................passed
+And User select city in dropdown............................................passed
+And User click the Submit button............................................passed
+Then User expect the registration to form...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
